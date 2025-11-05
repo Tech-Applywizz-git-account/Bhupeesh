@@ -877,7 +877,7 @@ const HomePage: React.FC = () => {
               {[
                 {
                   title: "Sign up free",
-                  desc: "Create your account quickly using email or social login to access the portal.",
+                  desc: "Sign up today and explore all verified H1B sponsors - forever.",
                   bgColor: "bg-blue-50",
                   image: "/add-user.svg",
                 },
